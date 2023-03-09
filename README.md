@@ -28,7 +28,7 @@ Once the installation is complete, any user can execute:
 
 This will produce a nicely formated display of the status of each harddrive in the array.  If something is wrong, you can then use MegaCli tools to further interrogate the hardware and determine what to do.
 
-## Optional: Inclusion in MOTD
+## Optional (But kinda the point!): Inclusion in MOTD
 It is nice for the MegaDisplay.sh information to automatically be shown upon user login, similar to the other MOTD content.  If you are on Debian or similar, this can be accomplished by adding the `51-raid-display` script to the `/etc/update-motd.d` directory, as follows:
 
 1. Download `51-raid-display` to `/etc/update-motd.d`
