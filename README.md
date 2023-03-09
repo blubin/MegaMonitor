@@ -24,7 +24,7 @@ Following the above installation, the system crontab will run the MegaMonitor.sh
 ## Command Line Use
 Once the installation is complete, any user can execute:
 
-`/opt/MegaDisplay.sh`
+`/opt/MegaMonitor/MegaDisplay.sh`
 
 This will produce a nicely formated display of the status of each harddrive in the array.  If something is wrong, you can then use MegaCli tools to further interrogate the hardware and determine what to do.
 
