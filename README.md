@@ -11,7 +11,7 @@ To install the scripts follow these steps:
 2. `sudo mkdir /opt/MegaMonitor`
 3. `sudo chmod 755 /opt/MegaMonitor`
 4. `sudo chown root:root /opt/MegaMonitor`
-5. Download `MegaMonitor.sh` and `MegaDisplay.sh` from this repository and place them in `/opt/MegaMagamonitor`
+5. Download `MegaMonitor.sh` and `MegaDisplay.sh` from this repository and place them in `/opt/MegaMagaMonitor`
 6. `sudo chmod 755 /opt/MegaMonitor/MegaDisplay.sh`
 7. `sudo chmod 744 /opt/MegaMonitor/MegaMonitor.sh`
 8. `sudo chown root:root /opt/MegaMonitor/MegaDisplay.sh`
